@@ -11,7 +11,7 @@ Welcome to my digital space! I'm a dedicated professional with a passion for cra
 - **Pronouns:** he/him
 - **GitHub:** Darshan060224
 - **Location:** Coimbatore, India
-- **Contact:** +91 93423 22541 | darshan060224@gmail.com
+- **Contact:** darshan060224@gmail.com
 
 As a detail-oriented cybersecurity enthusiast, I bring hands-on experience in threat analysis, vulnerability assessment, SOC fundamentals, ethical hacking labs, and digital forensics and incident response (DFIR). My expertise is grounded in Linux, networking, SIEM basics, and a suite of security tools, complemented by a solid foundation in full-stack development and AI-assisted analysis. I am deeply passionate about applying my security knowledge to real-world scenarios, including incident investigation, log analysis, and forensic workflows.
 
@@ -19,8 +19,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 
 ## 🎓 Education
 
-**B.E. Computer Science And Engineering** | KGISL Institute of Technology, Coimbatore, India
-*2023 – 2027* | CGPA - 8.44/10
+**B.E. Computer Science And Engineering** | *2023 – 2027*
 
 ## 💼 Professional Experience
 
@@ -30,24 +29,40 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 
 ## 💡 Technical Projects
 
-### TimeScope — Real-Time Market Intelligence Dashboard
-*React, TypeScript, Node.js, Express, SQL, MongoDB, Redis, Docker*
-* Engineered a real-time platform analyzing 50+ crypto & stock assets with multi-timeframe insights (1h, 24h, 7d).
-* Optimized performance using scalable backend architecture and Redis caching.
-* Built TimeX, an AI assistant using Google Gemini API with RAG (search + AI for accurate answers), enabling smart market insights.
+### 🌐 TimeScope — Real-Time Market Intelligence Dashboard
 
-### Forensic Evidence Parsing Dashboard (FEPD)
-*Python*
-* Built a Python-based digital forensics dashboard for automated artifact extraction from system data.
-* Implemented timeline reconstruction and log correlation to enhance incident analysis efficiency.
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-CC292D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+*   Engineered a real-time platform analyzing 50+ crypto & stock assets with multi-timeframe insights (1h, 24h, 7d).
+*   Optimized performance using scalable backend architecture and Redis caching.
+*   Built TimeX, an AI assistant using Google Gemini API with RAG (search + AI for accurate answers), enabling smart market insights.
+
+[Live Demo](https://your-timescope-demo-link.com) | [Source Code](https://github.com/Darshan060224/timescope-repo)
+
+### 🔬 Forensic Evidence Parsing Dashboard (FEPD)
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+*   Built a Python-based digital forensics dashboard for automated artifact extraction from system data.
+*   Implemented timeline reconstruction and log correlation to enhance incident analysis efficiency.
+
+[Live Demo](https://your-fepd-demo-link.com) | [Source Code](https://github.com/Darshan060224/fepd-repo)
 
 ## 🏅 Certifications
 
 * Certified SOC Analyst (BCSA) — BlackPerl DFIR
 * Google Cybersecurity Professional Certificate
-* Fortinet Training Institute – FCF: Introduction to the Threat Landscape 3.0
-* Palo Alto Networks – Cloud Security Fundamentals
-* Ethical Hacking Essentials – EC-Council
 
 ## 🛠️ Skills & Expertise
 
@@ -90,10 +105,20 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
   <img alt="Redis" src="https://img.shields.io/badge/Redis-CC292D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
-
 ### 🔐 Cybersecurity Skills
-**Blue Team:** SIEM, Splunk, Log Analysis, Threat Hunting, Detection Engineering, Incident Response, IDS/IPS, Firewall Analysis, Malware Analysis, Network Monitoring
-**Red Team:** Penetration Testing, Vulnerability Assessment, Exploit Research, Web App Testing, Privilege Escalation, Wireless Security, Social Engineering, Active Directory Testing
+
+<p>
+  <img alt="Blue Team" src="https://img.shields.io/badge/Blue_Team-007ACC?style=flat-square&logoColor=white" />
+  <img alt="Red Team" src="https://img.shields.io/badge/Red_Team-DC143C?style=flat-square&logoColor=white" />
+</p>
+
+**Blue Team Expertise:**
+*   SIEM, Splunk, Log Analysis, Threat Hunting, Detection Engineering
+*   Incident Response, IDS/IPS, Firewall Analysis, Malware Analysis, Network Monitoring
+
+**Red Team Expertise:**
+*   Penetration Testing, Vulnerability Assessment, Exploit Research, Web App Testing
+*   Privilege Escalation, Wireless Security, Social Engineering, Active Directory Testing
 
 ### 🛠️ Security Tools
 <p>
