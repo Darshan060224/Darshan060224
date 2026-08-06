@@ -12,6 +12,7 @@ Welcome to my digital space! I'm a dedicated professional with a passion for cra
 - **GitHub:** Darshan060224
 - **Location:** Coimbatore, India
 - **Contact:** darshan060224@gmail.com
+- **Cybersecurity + AI/ML Engineer | SOC, DFIR & Cloud Security | Building secure, intelligent systems
 
 As a detail-oriented cybersecurity enthusiast, I bring hands-on experience in threat analysis, vulnerability assessment, SOC fundamentals, ethical hacking labs, and digital forensics and incident response (DFIR). My expertise is grounded in Linux, networking, SIEM basics, and a suite of security tools, complemented by a solid foundation in full-stack development and AI-assisted analysis. I am deeply passionate about applying my security knowledge to real-world scenarios, including incident investigation, log analysis, and forensic workflows.
 
@@ -63,6 +64,9 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 
 * Certified SOC Analyst (BCSA) — BlackPerl DFIR
 * Google Cybersecurity Professional Certificate
+* Microsoft Certified: Security Operations Analyst Associate (SC-200) 
+* Ethical Hacker — Cisco (NetAcad) 
+* Microsoft Certified: Cloud and AI Security Engineer Associate(SC-500)
 
 ## 🛠️ Skills & Expertise
 
@@ -112,13 +116,39 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
   <img alt="Red Team" src="https://img.shields.io/badge/Red_Team-DC143C?style=flat-square&logoColor=white" />
 </p>
 
-**Blue Team Expertise:**
-*   SIEM, Splunk, Log Analysis, Threat Hunting, Detection Engineering
-*   Incident Response, IDS/IPS, Firewall Analysis, Malware Analysis, Network Monitoring
+**🔵 Blue Team Expertise:**
+<p>
+  <img alt="SIEM" src="https://img.shields.io/badge/SIEM-1e3a5f?style=flat-square" />
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img alt="Log Analysis" src="https://img.shields.io/badge/Log_Analysis-1e3a5f?style=flat-square" />
+  <img alt="Threat Hunting" src="https://img.shields.io/badge/Threat_Hunting-1e3a5f?style=flat-square" />
+  <img alt="Detection Engineering" src="https://img.shields.io/badge/Detection_Engineering-1e3a5f?style=flat-square" />
+  <img alt="Incident Response" src="https://img.shields.io/badge/Incident_Response-1e3a5f?style=flat-square" />
+  <img alt="IDS/IPS" src="https://img.shields.io/badge/IDS%2FIPS-1e3a5f?style=flat-square" />
+  <img alt="Firewall Analysis" src="https://img.shields.io/badge/Firewall_Analysis-1e3a5f?style=flat-square" />
+  <img alt="Malware Analysis" src="https://img.shields.io/badge/Malware_Analysis-1e3a5f?style=flat-square" />
+  <img alt="Network Monitoring" src="https://img.shields.io/badge/Network_Monitoring-1e3a5f?style=flat-square" />
+</p>
 
-**Red Team Expertise:**
-*   Penetration Testing, Vulnerability Assessment, Exploit Research, Web App Testing
-*   Privilege Escalation, Wireless Security, Social Engineering, Active Directory Testing
+**🔴 Red Team Expertise:**
+<p>
+  <img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration_Testing-7f1d1d?style=flat-square" />
+  <img alt="Vulnerability Assessment" src="https://img.shields.io/badge/Vulnerability_Assessment-7f1d1d?style=flat-square" />
+  <img alt="Exploit Research" src="https://img.shields.io/badge/Exploit_Research-7f1d1d?style=flat-square" />
+  <img alt="Web App Testing" src="https://img.shields.io/badge/Web_App_Testing-7f1d1d?style=flat-square" />
+  <img alt="Privilege Escalation" src="https://img.shields.io/badge/Privilege_Escalation-7f1d1d?style=flat-square" />
+  <img alt="Wireless Security" src="https://img.shields.io/badge/Wireless_Security-7f1d1d?style=flat-square" />
+  <img alt="Social Engineering" src="https://img.shields.io/badge/Social_Engineering-7f1d1d?style=flat-square" />
+  <img alt="Active Directory Testing" src="https://img.shields.io/badge/Active_Directory_Testing-7f1d1d?style=flat-square" />
+</p>
+
+### ☁️ Cloud & DevSecOps
+<p>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 ### 🛠️ Security Tools
 <p>
