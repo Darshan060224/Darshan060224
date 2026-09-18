@@ -10,9 +10,12 @@ Welcome to my digital space! I'm a dedicated professional with a passion for cra
 
 - **Pronouns:** he/him
 - **GitHub:** Darshan060224
-- **Location:** Coimbatore, India
+- **Location:** Coimbatore, India | +91 93423 22541
 - **Contact:** darshan060224@gmail.com
-- **Cybersecurity + AI/ML Engineer | SOC, DFIR & Cloud Security | Building secure, intelligent systems
+- **Headline:** Cybersecurity student, bug bounty hunter, CTF player & security researcher | SOC, DFIR & Cloud Security | Building secure, intelligent systems
+
+**Profile Summary:**
+Cybersecurity student, bug bounty hunter, CTF player, and security researcher interested in learning about the inner workings of things, finding out weaknesses, and improving on them. My primary areas of interest are web, mobile, API, application, and cloud security along with penetration testing, threat hunting, security operations, AI security, and digital forensics. I like to learn and explore through projects, CTFs, vulnerability research, and real-world security assessments with a focus on continuous learning and responsible disclosure.
 
 As a detail-oriented cybersecurity enthusiast, I bring hands-on experience in threat analysis, vulnerability assessment, SOC fundamentals, ethical hacking labs, and digital forensics and incident response (DFIR). My expertise is grounded in Linux, networking, SIEM basics, and a suite of security tools, complemented by a solid foundation in full-stack development and AI-assisted analysis. I am deeply passionate about applying my security knowledge to real-world scenarios, including incident investigation, log analysis, and forensic workflows.
 
@@ -21,12 +24,23 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 ## 🎓 Education
 
 **B.E. Computer Science And Engineering** | *2023 – 2027*
+- **Institution:** KGISL Institute of Technology, Coimbatore, India
+- **CGPA:** 8.44 / 10
 
 ## 💼 Professional Experience
 
-**Security Engineer Intern** — BlackPerl (Remote)
+### Software Engineer Intern — Tridots Tech Pvt. Ltd.
+*JULY 2026 – PRESENT | Onsite*
+- Developing and contributing to web-based applications using Frappe Framework, ERPNext, and Vue.js.
+- Working with the Frappe/ERPNext ecosystem for application development and customization.
+- Debugging, testing, and implementing features as part of production-oriented development workflows.
+
+### Security Engineer Intern — BlackPerl (Remote)
 *Jan 2026 – Mar 2026*
-* Collaborated within a production-grade security environment aligned with industry best practices.
+- Collaborated within a production-grade security environment aligned with industry best practices.
+- Set up and configured Splunk environments, gaining hands-on experience with SIEM log ingestion and alert management.
+- Analyzed security events and practiced IOC investigation workflows within Splunk.
+- Built hands-on cybersecurity training labs for the Pwndora learning platform.
 
 ## 💡 Technical Projects
 
@@ -43,34 +57,62 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
   <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-*   Engineered a real-time platform analyzing 50+ crypto & stock assets with multi-timeframe insights (1h, 24h, 7d).
-*   Optimized performance using scalable backend architecture and Redis caching.
-*   Built TimeX, an AI assistant using Google Gemini API with RAG (search + AI for accurate answers), enabling smart market insights.
+- Engineered a real-time platform analyzing 50+ crypto & stock assets with multi-timeframe insights (1h, 24h, 7d).
+- Optimized performance using scalable backend architecture and Redis caching.
+- Built TimeX, an AI assistant using Google Gemini API with RAG (search + AI for accurate answers), enabling smart market insights.
 
 [Live Demo](https://your-timescope-demo-link.com) | [Source Code](https://github.com/Darshan060224/timescope-repo)
+
+### 🎬 CreoAd — Automated Video Generation Platform
+
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-CC292D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" />
+  <img alt="ComfyUI" src="https://img.shields.io/badge/ComfyUI-FF6F00?style=flat-square&logoColor=white" />
+  <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+</p>
+
+- Built an automated video generation platform using Next.js and FastAPI, orchestrating multi-stage asynchronous media pipelines with Redis to handle rendering workloads.
+- Implemented a generative AI pipeline integrating Ollama, ComfyUI to autonomously synthesize scripts, images, and voiceovers from Playwright-scraped URLs, assembling final MP4 videos via FFmpeg.
 
 ### 🔬 Forensic Evidence Parsing Dashboard (FEPD)
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PyQt6" src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-*   Built a Python-based digital forensics dashboard for automated artifact extraction from system data.
-*   Implemented timeline reconstruction and log correlation to enhance incident analysis efficiency.
+- Built a forensic dashboard to automate artifact extraction from Windows systems including EVTX logs, Registry, Prefetch, MFT, and browser history.
+- Implemented timeline reconstruction and log correlation to support incident analysis workflows.
+- Designed with forensic soundness principles including SHA-256 hashing, read-only evidence access, and chain-of-custody logging.
 
 [Live Demo](https://your-fepd-demo-link.com) | [Source Code](https://github.com/Darshan060224/fepd-repo)
 
+## 🏆 Cybersecurity & CTF Achievements
+
+- 🏅 **Zepto Hall of Fame:** Mobile security researcher recognition.
+- 🛡️ **Frappe Security Research:** Received reporter credit for a published 2X GitHub Security Advisory.
+- 🚩 **TRIVARNA 2.0 International CTF Championship:** 4th Place as Individual.
+- 🎯 **DCG Coimbatore (DCG91422):** 3rd Place, Individual and 10th Place as Team.
+
 ## 🏅 Certifications
 
-* Certified SOC Analyst (BCSA) — BlackPerl DFIR
-* Google Cybersecurity Professional Certificate
-* Microsoft Certified: Security Operations Analyst Associate (SC-200) 
-* Ethical Hacker — Cisco (NetAcad) 
-* Microsoft Certified: Cloud and AI Security Engineer Associate(SC-500)
+- Certified SOC Analyst (BCSA) — BlackPerl DFIR
+- Google Cybersecurity Professional Certificate
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
+- Ethical Hacker — Cisco (NetAcad)
+- Microsoft Certified: Cloud and AI Security Engineer Associate(SC-500)
 
 ## 🛠️ Skills & Expertise
 
 ### 💻 Programming Languages
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -80,19 +122,24 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 🌐 Frontend Development
+
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React.js" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ Backend Development
+
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Frappe Framework" src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=flat-square" />
+  <img alt="ERPNext" src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -101,6 +148,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -117,6 +165,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 **🔵 Blue Team Expertise:**
+
 <p>
   <img alt="SIEM" src="https://img.shields.io/badge/SIEM-1e3a5f?style=flat-square" />
   <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
@@ -131,6 +180,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 **🔴 Red Team Expertise:**
+
 <p>
   <img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration_Testing-7f1d1d?style=flat-square" />
   <img alt="Vulnerability Assessment" src="https://img.shields.io/badge/Vulnerability_Assessment-7f1d1d?style=flat-square" />
@@ -143,6 +193,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### ☁️ Cloud & DevSecOps
+
 <p>
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
@@ -151,6 +202,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 🛠️ Security Tools
+
 <p>
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-7952B3?style=flat-square&logo=nmap&logoColor=white" />
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
@@ -164,7 +216,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
   <img alt="John the Ripper" src="https://img.shields.io/badge/John_the_Ripper-000000?style=flat-square&logoColor=white" />
   <img alt="Aircrack-ng" src="https://img.shields.io/badge/Aircrack--ng-000000?style=flat-square&logoColor=white" />
   <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-000000?style=flat-square&logoColor=white" />
-  <img alt="SQLMap" src="https://img.shields.io/badge/SQLMap-000000?style=flat-square&logoColor=white" />
+  <img alt="SQLMap" src="https://img.shields.io/badge/SQLMap-000000?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="Gobuster" src="https://img.shields.io/badge/Gobuster-000000?style=flat-square&logoColor=white" />
   <img alt="Dirsearch" src="https://img.shields.io/badge/Dirsearch-000000?style=flat-square&logoColor=white" />
 </p>
@@ -175,6 +227,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 🤖 AI / Machine Learning
+
 <p>
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-FF6600?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Deep Learning" src="https://img.shields.io/badge/Deep_Learning-FF6600?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -191,6 +244,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 🐧 Operating Systems
+
 <p>
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -199,6 +253,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 🌍 Networking Skills
+
 <p>
   <img alt="TCP/IP" src="https://img.shields.io/badge/TCP%2FIP-000000?style=flat-square&logoColor=white" />
   <img alt="DNS" src="https://img.shields.io/badge/DNS-000000?style=flat-square&logoColor=white" />
@@ -213,6 +268,7 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 🧰 Developer Tools
+
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -221,7 +277,8 @@ I am actively seeking opportunities to leverage my diverse skill set and contrib
 </p>
 
 ### 📘 Soft Skills
-Problem Solving | Team Collaboration | Technical Writing | Communication | Research Skills | Critical Thinking
+
+Problem Solving | Team Collaboration | Technical Writing | Communication | Research Skills | Critical Thinking | Attention to Detail | Adaptability
 
 ## 📊 GitHub Stats
 
@@ -237,10 +294,13 @@ Problem Solving | Team Collaboration | Technical Writing | Communication | Resea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan060224&layout=compact&theme=dark&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Top Langs" />
 </p>
 
-## 🏆 Achievements
+## 🏆 Key Achievements
 
-- **GitHub Achievements:** I'm actively working towards unlocking more GitHub achievements!
-- **Projects:** Explore my pinned repositories to see some of my notable projects and contributions.
+- 🏅 **Zepto Hall of Fame:** Recognized as a mobile security researcher.
+- 🛡️ **Frappe Security Research:** Reporter credit for published 2X GitHub Security Advisories.
+- 🚩 **TRIVARNA 2.0 International CTF Championship:** 4th Place (Individual).
+- 🎯 **DCG Coimbatore (DCG91422):** 3rd Place (Individual) & 10th Place (Team).
+- **Projects & Research:** Explore my pinned repositories to see my active security tools and project implementations.
 
 ## 🤝 Connect with me
 
@@ -256,4 +316,4 @@ Problem Solving | Team Collaboration | Technical Writing | Communication | Resea
 4.  Commit and push the changes to your GitHub repository.
 5.  Customize the social media links and add your specific certifications and project details.
 
-*This README is designed to be dynamic and can be further enhanced with tools like GitHub Readme Stats and custom badges.*
+_This README is designed to be dynamic and can be further enhanced with tools like GitHub Readme Stats and custom badges._
